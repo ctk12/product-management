@@ -10,8 +10,17 @@
    3. npm run start
 ```
 
+## BackEnd APP .ENV
 
-## ## BackEnd APP Routes
+```js
+   MONGO_URI -> Use MongoDb MONGO_URI
+
+   PORT -> Add Port
+
+```
+
+
+## BackEnd APP Routes
 
 ```js
    POST ROUTE ->  /        --   add a product
